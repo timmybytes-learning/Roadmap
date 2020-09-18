@@ -1,16 +1,16 @@
 # Roadmap
 
----
-
 ## About
 
 This is my personal roadmap for learning web development — specifically the **front-end**. This guide started out as notes I was taking on the [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) and [Front-end Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) while self-learning web development. I'm trying to combine (and expand) them into as comprehensive and inclusive a guide as possible for newbies and anyone interested in learning more about development in-depth. This is definitely a **work-in-progress**, and more will be added to these concepts as time allows.
 
 If you're interested in adding anything, feel free to submit a Pull Request.
 
-## Contents [](#)
+## Contents [](#Contents)
 
 1. [Introduction](#Introduction)
+   - [Web Development: Front, Back, and Full-Stack](#WebDev)
+   - [Web Development Basics](#Basics)
 2. [HTML](#HTML)
    - [Semantic Structure & Accessibility](#Semantic)
 3. [CSS](#CSS)
@@ -20,11 +20,9 @@ If you're interested in adding anything, feel free to submit a Pull Request.
 7. [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
 8. [CS Fundamentals](#CSFundamentals)
 
----
-
 ## Introduction [](#Introduction)
 
-### Web Development: Front, Back, and Full-Stack
+### Web Development: Front, Back, and Full-Stack [](#WebDev)
 
 There are a lot of terms that get thrown around in relation to people who write code that involves the Internet — Developer, Engineer, Architect, Specialist, etc. — and like a lot of the tech industry, the roles of these positions varies across organizations. Typically though, you can think of there being three _main_ (not exhaustive) areas:
 
@@ -34,7 +32,11 @@ There are a lot of terms that get thrown around in relation to people who write 
 
 - **Full-stack**: ...
 
-### Basics
+### Web Development Basics [](#Basics)
+
+- ...
+
+[Back to Contents](#Contents)
 
 ## HTML [](#HTML)
 
@@ -144,7 +146,7 @@ article[data-columns="4"] {
 
 - ...
 
----
+[Back to Contents](#Contents)
 
 ## [CSS](#CSS)
 
@@ -154,7 +156,7 @@ article[data-columns="4"] {
 
 ### Hierarchy & Inheritance
 
----
+[Back to Contents](#Contents)
 
 ## [JavaScript](#JavaScript)
 
@@ -250,19 +252,19 @@ article[data-columns="4"] {
 
 #### What is the difference between `while` and `do-while` loops in JavaScript
 
----
+[Back to Contents](#Contents)
 
 ## [Git](#Git)
 
 ### Study Concepts
 
----
+[Back to Contents](#Contents)
 
 ## [CLI (Command Line Interface)](#CLI)
 
 ### Study Concepts
 
----
+[Back to Contents](#Contents)
 
 ## [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
 
@@ -292,11 +294,13 @@ article[data-columns="4"] {
 
 #### SASS/SCSS
 
----
+[Back to Contents](#Contents)
 
 ## [CS Fundamentals](#CSFundamentals)
 
 ### Algorithms & Data Structures
+
+## [Back to Contents](#Contents)
 
 ---
 
