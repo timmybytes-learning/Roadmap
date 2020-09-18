@@ -20,9 +20,9 @@ If you're interested in adding anything, feel free to submit a Pull Request.
 7. [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
 8. [CS Fundamentals](#CSFundamentals)
 
-## Introduction [](#Introduction)
+## [Introduction](#Introduction)
 
-### Web Development: Front, Back, and Full-Stack [](#WebDev)
+### [Web Development: Front, Back, and Full-Stack](#WebDev)
 
 There are a lot of terms that get thrown around in relation to people who write code that involves the Internet — Developer, Engineer, Architect, Specialist, etc. — and like a lot of the tech industry, the roles of these positions varies across organizations. Typically though, you can think of there being three _main_ (not exhaustive) areas:
 
@@ -32,15 +32,15 @@ There are a lot of terms that get thrown around in relation to people who write 
 
 - **Full-stack**: ...
 
-### Web Development Basics [](#Basics)
+### [Web Development Basics](#Basics)
 
 - This guide is meant to prepare someone with the concepts
 
 [Back to Contents](#Contents)
 
-## HTML [](#HTML)
+## [HTML](#HTML)
 
-### Semantic Structure & Accessibility [](#Semantic)
+### [Semantic Structure & Accessibility](#Semantic)
 
 - ...
 
