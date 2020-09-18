@@ -16,7 +16,7 @@ If you're interested in adding anything, feel free to submit a Pull Request.
 3. [CSS](#CSS)
 4. [JavaScript](#JavaScript)
 5. [Git](#Git)
-6. [CLI](#CLI)
+6. [CLI (Command Line Interface)](#CLI)
 7. [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
 8. [CS Fundamentals](#CSFundamentals)
 
