@@ -300,7 +300,7 @@ article[data-columns="4"] {
 
 ### Algorithms & Data Structures
 
-## [Back to Contents](#Contents)
+[Back to Contents](#Contents)
 
 ---
 
