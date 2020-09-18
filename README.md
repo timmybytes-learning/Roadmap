@@ -6,7 +6,7 @@ This is my personal roadmap for learning web development — specifically the **
 
 If you're interested in adding anything, feel free to submit a Pull Request.
 
-## Contents [](#Contents)
+## [Contents](#Contents)
 
 1. [Introduction](#Introduction)
    - [Web Development: Front, Back, and Full-Stack](#WebDev)
