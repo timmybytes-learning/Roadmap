@@ -2,10 +2,17 @@
 
 ---
 
-## Contents
+## About
+
+This is my personal roadmap for learning web development — specifically the **front-end**. This guide started out as notes I was taking on the [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) and [Front-end Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) while self-learning web development. I'm trying to combine (and expand) them into as comprehensive and inclusive a guide as possible for newbies and anyone interested in learning more about development in-depth. This is definitely a **work-in-progress**, and more will be added to these concepts as time allows.
+
+If you're interested in adding anything, feel free to submit a Pull Request.
+
+## Contents [](#)
 
 1. [Introduction](#Introduction)
 2. [HTML](#HTML)
+   - [Semantic Structure & Accessibility](#Semantic)
 3. [CSS](#CSS)
 4. [JavaScript](#JavaScript)
 5. [Git](#Git)
@@ -15,22 +22,25 @@
 
 ---
 
-## [Introduction](#Introduction)
+## Introduction [](#Introduction)
 
-This is my personal roadmap for learning web development — specifically the front-end. This is heavily based on [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap), but may deviate from the original as I add more specificity.
+### Web Development: Front, Back, and Full-Stack
 
-## [HTML](#HTML)
+There are a lot of terms that get thrown around in relation to people who write code that involves the Internet — Developer, Engineer, Architect, Specialist, etc. — and like a lot of the tech industry, the roles of these positions varies across organizations. Typically though, you can think of there being three _main_ (not exhaustive) areas:
 
-### Semantic Structure
+- **Front-end**: This typically involves UI/UX (User Interfaces/User Experiences) that heavily involves the visual and interactive parts of the web. This might be building (and sometimes designing) websites, creating web apps, and any number of tasks related to the "front" facing parts of the web. **This guide focuses on the Front-end**.
 
-- HTML5 tags & structure
+- **Back-end**: ...
 
-### Accessibility
+- **Full-stack**: ...
 
-- Color
-- Contrast
+### Basics
 
--
+## HTML [](#HTML)
+
+### Semantic Structure & Accessibility [](#Semantic)
+
+- ...
 
 ### Study Concepts
 
