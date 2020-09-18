@@ -34,7 +34,7 @@ There are a lot of terms that get thrown around in relation to people who write 
 
 ### Web Development Basics [](#Basics)
 
-- ...
+- This guide is meant to prepare someone with the concepts
 
 [Back to Contents](#Contents)
 
@@ -306,6 +306,8 @@ article[data-columns="4"] {
 
 _To Do:_
 
-- Test Build process for gh-pages deployment
-- Create main page with checked/unchecked boxes to track progress
-- Create documentation
+- [ ] Test Build process for gh-pages deployment
+- [ ] Create main page with checked/unchecked boxes to track progress
+- [x] Create documentation layout
+- [ ] Add sources for external reading, video, etc., for each pertinent section
+- [ ] Split README into separate docs/wiki
