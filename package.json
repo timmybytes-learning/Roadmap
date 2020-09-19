@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/timmybytes/Roadmap/issues"
   },
-  "homepage": "https://github.com/timmybytes/Roadmap#readme"
+  "homepage": "https://github.com/timmybytes/Roadmap#readme",
+  "devDependencies": {
+    "sierra-library": "^3.5.0"
+  }
 }
