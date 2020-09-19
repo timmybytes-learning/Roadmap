@@ -35,11 +35,13 @@ There are a lot of terms that get thrown around in relation to people who write 
 
 ### [Web Development Basics](#Basics)
 
-- This guide is meant to prepare someone with the concepts
+- ...
 
 [Back to Contents](#Contents)
 
 ## [HTML](#HTML)
+
+...
 
 ### [Semantic Structure & Accessibility](#Semantic)
 
@@ -47,19 +49,19 @@ There are a lot of terms that get thrown around in relation to people who write 
 
 ### Study Concepts
 
-#### What does a `doctype` do
+#### What does a `doctype` do?
 
 All HTML documents must start with a <!DOCTYPE > declaration. The declaration is not an HTML tag. It
 is an "information" to the browser about what document type to expect.
 
-#### How do you serve a page with content in multiple languages
+#### How do you serve a page with content in multiple languages?
 
 Language can be set/prioritized through http request headers, with more prioritized languages given
 greater “weight”. This can also be set with the “lang” attributes: 1 Define a primary language with
 the lang attribute, and then call out the secondary language(s) with lang attributes on elements in
 the document 2 Define lang in the specific sections of the document as needed
 
-#### What kind of things must you be wary of when designing or developing for multilingual sites
+#### What kind of things must you be wary of when designing or developing for multilingual sites?
 
 - Always use the `lang` and the `dir` attributes in all your HTML
 - Avoid talking about "right side" and "left side"
@@ -70,7 +72,7 @@ the document 2 Define lang in the specific sections of the document as needed
 messages.date = "The date today is %date"... and then:msg( 'messages.date' );
 ```
 
-#### What are `data-` attributes good for
+#### What are `data-` attributes good for?
 
 Data that should be associated with a particular element but need not have any defined meaning. Ex:
 
@@ -102,7 +104,7 @@ article[data-columns="4"] {
 }
 ```
 
-#### Consider HTML5 as an open web platform. What are the building blocks of HTML5
+#### Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 
 - **Semantics**: allowing you to describe more precisely what your content is.
 - **Connectivity**: allowing
@@ -118,32 +120,32 @@ article[data-columns="4"] {
 - **Styling**: letting authors write more
   sophisticated themes.
 
-#### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`
+#### Describe the difference between a `cookie`, `sessionStorage` and `localStorage`?
 
 - `localStorage`, `sessionStorage`, and `cookies` are all client storage solutions.
 - **`localStorage`**: ...
 - **`sessionStorage`**: ...
 - **`cookies`**: ...
 
-#### Describe the difference between `<script>`, `<script async>` and `<script defer>`
+#### Describe the difference between `<script>`, `<script async>` and `<script defer>`?
 
 - **`<script>`**: ...
 - **`<script aync>`**: ...
 - **`<script defer>`**: ...
 
-#### Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions
+#### Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 
 - ...
 
-#### What is progressive rendering
+#### What is progressive rendering?
 
 - ...
 
-#### Why you would use a `srcset` attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute
+#### Why you would use a `srcset` attribute in an image tag? Explain the process the browser uses when evaluating the content of this attribute?
 
 - ...
 
-#### Have you used different HTML templating languages before
+#### Have you used different HTML templating languages before?
 
 - ...
 
@@ -167,33 +169,34 @@ article[data-columns="4"] {
 
 #### Explain how `this` works in JavaScript
 
-#### Can you give an example of one of the ways that working with `this` has changed in ES6
+#### Can you give an example of one of the ways that working with `this` has changed in ES6?
 
 #### Explain how prototypal inheritance works
 
-#### What's the difference between a variable that is: `null`, `undefined` or undeclared
+<!-- prettier-ignore -->
+#### What's the difference between a variable that is: `null`, `undefined` or undeclared?
 
-#### How would you go about checking for any of these states
+#### How would you go about checking for any of these states?
 
-#### What is a closure, and how/why would you use one
+#### What is a closure, and how/why would you use one?
 
-#### What language constructions do you use for iterating over object properties and array items
+#### What language constructions do you use for iterating over object properties and array items?
 
-#### Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other
+#### Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
 
-#### What's a typical use case for anonymous functions
+#### What's a typical use case for anonymous functions?
 
-#### What's the difference between host objects and native objects
+#### What's the difference between host objects and native objects?
 
-#### Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`
+#### Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 
-#### Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
+#### Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`?
 
-#### Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two
+#### Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?
 
 #### Explain `Function.prototype.bind`
 
-#### What's the difference between feature detection, feature inference, and using the UA string
+#### What's the difference between feature detection, feature inference, and using the UA string?
 
 #### Explain "hoisting"
 
@@ -201,21 +204,21 @@ article[data-columns="4"] {
 
 #### Describe event capturing
 
-#### What's the difference between an "attribute" and a "property"
+#### What's the difference between an "attribute" and a "property"?
 
-#### What are the pros and cons of extending built-in JavaScript objects
+#### What are the pros and cons of extending built-in JavaScript objects?
 
-#### What is the difference between `==` and `===`
+#### What is the difference between `==` and `===`?
 
 #### Explain the same-origin policy with regards to JavaScript
 
-#### Why is it called a Ternary operator, what does the word "Ternary" indicate
+#### Why is it called a Ternary operator, what does the word "Ternary" indicate?
 
-#### What is strict mode? What are some of the advantages/disadvantages of using it
+#### What is strict mode? What are some of the advantages/disadvantages of using it?
 
-#### What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript
+#### What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 
-#### What tools and techniques do you use debugging JavaScript code
+#### What tools and techniques do you use debugging JavaScript code?
 
 #### Explain the difference between mutable and immutable objects
 
@@ -225,33 +228,33 @@ article[data-columns="4"] {
 
 #### Explain the difference between synchronous and asynchronous functions
 
-#### What is event loop
+#### What is event loop?
 
-#### What is the difference between call stack and task queue
+#### What is the difference between call stack and task queue?
 
-#### What are the differences between variables created using `let`, `var` or `const`
+#### What are the differences between variables created using `let`, `var` or `const`?
 
-#### What are the differences between ES6 class and ES5 function constructors
+#### What are the differences between ES6 class and ES5 function constructors?
 
-#### Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions
+#### Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?
 
-#### What advantage is there for using the arrow syntax for a method in a constructor
+#### What advantage is there for using the arrow syntax for a method in a constructor?
 
-#### What is the definition of a higher-order function
+#### What is the definition of a higher-order function?
 
-#### Can you give an example for destructuring an object or an array
+#### Can you give an example for destructuring an object or an array?
 
-#### Can you give an example of generating a string with ES6 Template Literals
+#### Can you give an example of generating a string with ES6 Template Literals?
 
-#### Can you give an example of a curry function and why this syntax offers an advantage
+#### Can you give an example of a curry function and why this syntax offers an advantage?
 
-#### What are the benefits of using `spread syntax` and how is it different from `rest syntax`
+#### What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
 
-#### How can you share code between files
+#### How can you share code between files?
 
-#### Why you might want to create static class members
+#### Why you might want to create static class members?
 
-#### What is the difference between `while` and `do-while` loops in JavaScript
+#### What is the difference between `while` and `do-while` loops in JavaScript?
 
 [Back to Contents](#Contents)
 
