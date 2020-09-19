@@ -16,9 +16,10 @@ If you're interested in adding anything, feel free to submit a Pull Request.
 3. [CSS](#CSS)
 4. [JavaScript](#JavaScript)
 5. [Git](#Git)
-6. [CLI (Command Line Interface)](#CLI)
-7. [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
-8. [CS Fundamentals](#CSFundamentals)
+6. [CLI](#CLI)
+7. [Frameworks](#Frameworks)
+8. [Stacks](#Stacks)
+9. [Fundamentals](#Fundamentals)
 
 ## [Introduction](#Introduction)
 
@@ -260,45 +261,100 @@ article[data-columns="4"] {
 
 [Back to Contents](#Contents)
 
-## [CLI (Command Line Interface)](#CLI)
+## [CLI](#CLI)
 
 ### Study Concepts
 
 [Back to Contents](#Contents)
 
-## [Frameworks, Libraries, Preprocessors, Compilers](#Frameworks)
+## [Frameworks](#Frameworks)
 
 ### JS Frameworks
 
+- ...
+
 #### jQuery
+
+- ...
 
 #### React
 
+- ...
+
 #### Vue
+
+- ...
 
 #### Angular
 
+- ...
+
 #### Node
+
+- ...
 
 ### CSS Libraries
 
+- ...
+
 #### Materialize
+
+- ...
 
 #### Skeleton
 
+- ...
+
 #### Bootstrap
+
+- ...
 
 ### CSS Preprocessors
 
+- ...
+
 #### LESS
+
+- ...
 
 #### SASS/SCSS
 
+- ...
+
 [Back to Contents](#Contents)
 
-## [CS Fundamentals](#CSFundamentals)
+## [Stacks](#Stacks)
+
+- LAMP: Linux/Apache/MySQL/PHP
+- MEAN: MongoDB/Express.js/AngularJS/Node.js
+- MERN: MongoDB/Express.js/React/Node.js
+- Ruby Stack: Ruby/Ruby on Rails/RVM (Ruby Virtual Machine)/MySQL/Apache/PHP
+- Django Stack: Python/Django/Apache/MySQL
+- Bitnami DevPack: PHP/Django/Ruby on Rails/Java/MySQL, PostgreSQL/Apache Tomcat
+
+[Back to Contents](#Contents)
+
+## [Fundamentals](#Fundamentals)
+
+The following structure comes from [Teach Yourself Computer Science](https://teachyourselfcs.com/), and supplements the hands-on learning much of this guide focuses on with more rigorous study on core Computer Science topics. **You don't need to know formal CS to work in the tech industry**, but learning these concepts will give you a deeper understanding on the technologies and processes used in development.
+
+### Programming
+
+### Computer Architecture
 
 ### Algorithms & Data Structures
+
+### Math for CS
+
+### Operating Systems
+
+### Computer Networking
+
+### Databases
+
+### Languages and Compiliers
+
+### Distributed Systems
 
 [Back to Contents](#Contents)
 
