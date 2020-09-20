@@ -1,4 +1,6 @@
-# Roadmap
+![Roadmap Logo](src/assets/img/Roadmap_Logo.png)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/timmybytes/roadmap) ![GitHub](https://img.shields.io/github/license/timmybytes/roadmap) ![GitHub top language](https://img.shields.io/github/languages/top/timmybytes/roadmap) ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/timmybytes/roadmap) ![Twitter Follow](https://img.shields.io/twitter/follow/timmybytes?style=social)
 
 ## About
 
