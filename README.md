@@ -8,6 +8,8 @@ This is my personal roadmap for learning web development — specifically the **
 
 If you're interested in adding anything, feel free to submit a Pull Request.
 
+> 09/20/20: I'm in the process of building a live webpage for this, to make things more easy to navigate. It's being built with the [Sierra SCSS Library](https://sierra-library.github.io/#components) from @JoanClaret.
+
 ## [Contents](#Contents)
 
 1. [Introduction](#Introduction)

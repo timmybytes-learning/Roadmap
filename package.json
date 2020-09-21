@@ -19,5 +19,11 @@
   "homepage": "https://github.com/timmybytes/Roadmap#readme",
   "devDependencies": {
     "sierra-library": "^3.5.0"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {},
+  "keywords": []
 }
