@@ -374,3 +374,36 @@ _To Do:_
 - [x] Create documentation layout
 - [ ] Add sources for external reading, video, etc., for each pertinent section
 - [ ] Split README into separate docs/wiki
+- Add:
+- [ ] Test Driven Development (TDD)
+- [ ] Continuous Integration (CI)
+- [ ] APIs
+- [ ] [MDN Front End](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+  - Getting Started
+    - [Installing basic software](<https://developer.mozilla.org/en-US/docs/Learn/> Getting_started_with_the_webInstalling_basic_software) — basic tool setup (15 min read)
+    - [Background on the web and web standards](<https://developer.mozilla.org/en-US/docs/Learn/> Getting_started_with_the_webThe_web_and_web_standards) (45 min read)
+    - [Learning and getting help](https://developer.mozilla.org/en-US/docs/Learn/Learning_and_getting_help) (45 min read)
+    - Semantics and Structure with HTML
+    - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) (15–20 hour readexercises)
+    - [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding) (15–20 hour readexercises)
+    - [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (5–10 hour read/exercises)
+  - Styling and Layout with CSS
+    - [CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) (10–15 hour read/exercises)
+    - [CSS building blocks](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks) (35–45 hour read/exercises)
+    - [Styling text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text) (15–20 hour read/exercises)
+    - [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) (30–40 hour read/exercises)
+  - Interactivity with JavaScript
+    - [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) (30–40 hour read/exercises)
+    - [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) (25–35 hour readexercises)
+    - [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) (25–35 hour readexercises)
+    - [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) (30–40 hour readexercises)
+    - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) (25–35 hour readexercises)
+  - Web forms — Working with user data
+    - [Web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms) (40–50 hours)
+  - Making the Web Work For Everyone
+    - [Cross-browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing) (25–30hour read/exercises)
+    - [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) (20–25 hour read/exercises)
+  - Modern Tooling
+    - [Git and GitHub](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub) (5 hour read)
+    - [Understanding client-side web development tools](<https://developer.mozilla.org/en-US/docs/Learn/> Tools_and_testingUnderstanding_client-side_tools) (20–25 hour read)
+    - [Understanding client-side JavaScript frameworks](https://developer.mozilla.org/en-US/docs/Learn/ Tools_and_testingClient-side_JavaScript_frameworks) (30-60 hour read/exercises)\*
